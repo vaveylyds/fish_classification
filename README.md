@@ -1,4 +1,4 @@
-# Akbank Derin Öğrenme Bootcamp Projesi: Fish Species Segmentation and Classification 
+# Akbank Derin Öğrenme Bootcamp Projesi: Fish Species Classification and Segmentation 
 
 ## Proje Amacı: Bu proje, Akbank Derin Öğrenme Bootcamp kapsamında gerçekleştirilen bir sınıflandırma projesidir. Projenin amacı, bir derin öğrenme modelinin geliştirilmesi ve değerlendirilmesidir. Kullanılan veri seti, çeşitli balık türlerine ait görseller içermektedir.
 
